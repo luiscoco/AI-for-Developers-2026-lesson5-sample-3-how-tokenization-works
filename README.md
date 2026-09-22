@@ -1,4 +1,4 @@
-# Sample 3 — How Tokenization Works
+# How Tokenization Works
 
 This sample demonstrates a core fact about LLMs: **models work with token sequences (numerical IDs), not raw text.**
 
